@@ -352,7 +352,6 @@ html {
   }
 
   #lifeat {
-    height: unset;
     flex-direction: column-reverse;
     row-gap: 5px;
   }

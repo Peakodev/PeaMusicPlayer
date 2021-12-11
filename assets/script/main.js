@@ -38,7 +38,7 @@ function musicPlayer() {
                 name: "To The Moon",
                 artist: "hooligan",
                 path: "./assets/mp3/4/TO THE MOON  hooligan.mp3",
-                img: "https://media1.tenor.com/images/62cb3c779c0dd4a7acd7f9192ce34cec/tenor.gif?itemid=5639599"
+                img: "https://i.ytimg.com/vi/nmKTlmByng0/maxresdefault.jpg"
             },{
                 name: "Dancing With Your Ghost",
                 artist: "Sasha Sloan",
